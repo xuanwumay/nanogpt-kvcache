@@ -1,0 +1,1 @@
+Building nano GPT from scratch with KV-cache, as a learning project. Will train on TinyStories, benchmark generation throughput.
